@@ -1,0 +1,4 @@
+# Tests specific config
+
+[*.cs]
+dotnet_diagnostic.CA1707.severity = silent

@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <AnalysisMode>Recommended</AnalysisMode>
+    <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+    <TreatWarningsAsErrors Condition=" '$(Configuration)' == 'Release' ">false</TreatWarningsAsErrors>
+  </PropertyGroup>
+</Project>
